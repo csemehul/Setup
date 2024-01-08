@@ -1,0 +1,10 @@
+Setting up Microsoft VS code 
+Downloading and installing mingW and Debugger from extensions 
+Opening a new folder in VS code and creating a new file name demo.cpp
+#include<stdio.h>
+int main()
+printf("Hello World");
+return 0;
+Also create a new file name input.cpp and output.cpp
+Split the screen layout to the bottom and left
+Run the terminal and output is ready.
